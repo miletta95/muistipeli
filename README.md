@@ -1,1 +1,1 @@
-# muistipeli
+# muistipeli harjoitus
